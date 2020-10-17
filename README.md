@@ -1,0 +1,2 @@
+# MartinAplKotlin
+Aplikasi Kotlin Sederhana
